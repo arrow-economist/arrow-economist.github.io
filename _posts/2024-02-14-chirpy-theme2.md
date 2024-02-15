@@ -255,7 +255,7 @@ git init
 
 ```
 git add .
-git comment -m "코맨트 남길 말 e.g. config 수정"
+git commit -m "코맨트 남길 말 e.g. config 수정"
 git push
 ```
 
