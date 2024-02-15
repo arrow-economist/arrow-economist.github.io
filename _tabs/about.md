@@ -4,5 +4,4 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+A Korean Ph.D. student in economics, especially focusing on econometrics. I am using this blog to record my Ph.D. life and some coding stuffs.
