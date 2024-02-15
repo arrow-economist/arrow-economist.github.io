@@ -1,6 +1,6 @@
 ---
 title: C언어-unable-to-perform-this-action-because-the-process-is-running-에러
-author: arrow-economist
+author: arrow
 date: 2023-04-24 00:38:00 +0800
 categories: [C]
 tags: [C]

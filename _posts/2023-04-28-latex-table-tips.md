@@ -1,6 +1,6 @@
 ---
 title: LaTeX-표-꿀팁-(원하는-위치,-생성기)
-author: arrow-economist
+author: arrow
 date: 2023-04-28 11:38:00 +0800
 categories: [latex]
 tags: [latex]

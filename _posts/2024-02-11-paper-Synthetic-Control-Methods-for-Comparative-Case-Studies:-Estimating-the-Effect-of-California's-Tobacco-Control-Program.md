@@ -1,6 +1,6 @@
 ---
 title: 논문리뷰-Synthetic-Control-Methods-for-Comparative-Case-Studies:-Estimating-the-Effect-of-California's-Tobacco-Control-Program
-author: arrow-economist
+author: arrow
 date: 2024-02-11 17:38:00 +0800
 categories: [papers]
 tags: [papers]

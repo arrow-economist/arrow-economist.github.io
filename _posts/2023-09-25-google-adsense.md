@@ -1,6 +1,6 @@
 ---
 title: 구글-애드센스-통과
-author: arrow-economist
+author: arrow
 date: 2023-09-25 00:38:00 +0800
 categories: [life]
 tags: [life]

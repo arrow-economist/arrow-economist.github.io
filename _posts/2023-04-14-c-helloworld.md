@@ -1,6 +1,6 @@
 ---
 title: C언어-Hello-World!-출력하기
-author: arrow-economist
+author: arrow
 date: 2023-04-14 00:38:00 +0800
 categories: [C]
 tags: [C]

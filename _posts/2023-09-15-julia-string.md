@@ -1,6 +1,6 @@
 ---
 title: Julia-string-연산자
-author: arrow-economist
+author: arrow
 date: 2023-09-15 00:38:00 +0800
 categories: [julia]
 tags: [julia]

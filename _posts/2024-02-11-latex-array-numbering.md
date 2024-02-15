@@ -1,6 +1,6 @@
 ---
 title: latex-수식-번호-관련-팁
-author: arrow-economist
+author: arrow
 date: 2024-02-11 00:38:00 +0800
 categories: [latex]
 tags: [latex]

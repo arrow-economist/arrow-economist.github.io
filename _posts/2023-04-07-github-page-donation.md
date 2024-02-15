@@ -1,6 +1,6 @@
 ---
 title: 깃허브-블로그에-후원버튼-다는-방법
-author: arrow-economist
+author: arrow
 date: 2023-04-07 00:34:00 +0800
 categories: [Git, Github]
 tags: [github]

@@ -37,6 +37,8 @@ brew install ruby
 이걸 그대로 복붙해서 실행하면 brew가 설치되고, brew를 설치 후 위 명령어를 다시 실행하면 된다.
 ([참고: homebrew](https://brew.sh))
 
+그리고 jekyll도 설치가 필요하다. [jekyll 설치 참고](https://jekyllrb.com/docs/installation/macos/)
+
 그리고, 방금 위에 링크를 올린 [chirpy-theme](https://github.com/cotes2020/jekyll-theme-chirpy) 여기에서 Fork를 눌러서 본인의 깃허브 repo를 만들도록 하자. 이 때 repo 이름은 `username.github.io`이렇게 입력해주면 된다. 나의 경우는 `arrow-economist.github.io`가 되겠다.
 
 제대로 fork를 했으면 이제 이거를 내 컴퓨터 local에 불러오는 작업을 해야한다. 만약 git이 처음이라면? 그 때는 최초 설정을 해줄 필요가 있는데 (맥은 git이 기본으로 설치되어있는 것으로 알고있음)
@@ -110,7 +112,7 @@ jekyll serve
 
 참고로 3단계까지 성공했을 경우, git 상에서 push를 해준게 없기 때문에 주소창에 입력해도 실행이 되지 않는게 정상이다. 다음 포스팅까지 거쳐서 블로그를 완성할 수 있다.
 
-## 5. 생길 수 있는 에러
+## 7. 생길 수 있는 에러
 
 내가 직면했고 가장 날 괴롭혔던 에러는
 

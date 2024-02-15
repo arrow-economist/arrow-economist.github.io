@@ -1,6 +1,6 @@
 ---
 title: LaTeX-수식이-너무-길-때
-author: arrow-economist
+author: arrow
 date: 2023-09-24 00:38:00 +0800
 categories: [latex]
 tags: [latex]

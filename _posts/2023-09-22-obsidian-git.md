@@ -1,6 +1,6 @@
 ---
 title: obsidian-github-연동
-author: arrow-economist
+author: arrow
 date: 2023-09-22 00:38:00 +0800
 categories: [obsidian]
 tags: [obsidian, github]

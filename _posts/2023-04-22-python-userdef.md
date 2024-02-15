@@ -1,6 +1,6 @@
 ---
 title: Python-사용자-정의-함수
-author: arrow-economist
+author: arrow
 date: 2023-04-22 00:38:00 +0800
 categories: [Python]
 tags: [Python]
