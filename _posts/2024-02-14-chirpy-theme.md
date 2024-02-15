@@ -1,6 +1,6 @@
 ---
 title: jekyll-chirpy-theme으로-깃허브-블로그-만들기
-author: author-id
+author: arrow
 date: 2024-02-14 22:22:00 +0800
 categories: [git, github]
 tags: [git, github]
