@@ -1,6 +1,6 @@
 ---
 title: Stackedit과-Github-연동-시-발생하는-에러-해결법
-author: arrow-economist
+author: <author-id>
 date: 2023-04-06 00:34:00 +0800
 categories: [Git, Github]
 tags: [stackedit, github]
