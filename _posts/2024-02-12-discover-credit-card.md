@@ -1,6 +1,6 @@
 ---
 title: 미국유학생-첫-신용카드-추천-디스커버-신용카드
-author: arrow-economist
+author: <author-id>
 date: 2024-02-12 12:38:00 +0800
 categories: [life]
 tags: [life]
