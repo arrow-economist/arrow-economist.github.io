@@ -1,6 +1,9 @@
 ---
-categories:
-  - Mac
+title: 맥-터미널-세팅하는-방법
+author: arrow-economist
+date: 2023-04-08 00:34:00 +0800
+categories: [Mac]
+tags: [Mac]
 ---
 
 # #MacOS #Terminal
@@ -8,6 +11,7 @@ categories:
 필자는 컴못알이라 원래 윈도우 노트북만 썼다. 그러다가 석사 입학 후 코딩을 많이 하게 되었는데, M1 맥북이 나왔을 때 속도가 쩐다는 소식을 듣고 작업 환경 개선을 명목으로 질러버렸다. 대만족 후 애플에 빠져들어 지금은 맥미니까지 쓰고 있다. 하지만 여전히 컴못알이다. 얼마 전에 맥북 세팅을 검색해보다가 터미널을 세팅하는 방법을 찾게 돼서 공유를 해본다. 물론 나는 터미널을 세팅해놓고도 쓸 줄 모르는 사람이다. (참고: 노마드 코더 유튜브)
 
 ### 1. Homebrew 설치
+
 우선 [brew.sh](https://brew.sh)에 접속한다. 그러면 다음과 같은 화면이 나오는데, 여기에서 **Install Homebrew**에 있는 코드를 복사해준다.
 
 ![enter image description here](https://raw.githubusercontent.com/arrow-economist/arrow-economist.github.io/master/images/Terminal1.png)
@@ -35,7 +39,7 @@ homebrew를 잘 설치했다면 아마 설치가 되는 듯한 인터페이스�
 
 ### 3. Oh my zsh 설치하기
 
-다음으로는 Oh my zsh를 설치해서 터미널 UI를 간지나게 꾸며줄 차례다. [ohmyz.sh](https://ohmyz.sh)를 들어가면, **Install oh-my-zsh** 버튼이 보인다.  누르면 하단으로 내려가서 설치를 할 수 있는 코드가 나와있는데 이를 복사해준다.
+다음으로는 Oh my zsh를 설치해서 터미널 UI를 간지나게 꾸며줄 차례다. [ohmyz.sh](https://ohmyz.sh)를 들어가면, **Install oh-my-zsh** 버튼이 보인다. 누르면 하단으로 내려가서 설치를 할 수 있는 코드가 나와있는데 이를 복사해준다.
 
 ![enter image description here](https://raw.githubusercontent.com/arrow-economist/arrow-economist.github.io/master/images/Terminal2.png)
 
@@ -62,6 +66,7 @@ ln -s "/Applications/Visual Studio Code.app/Contents/Resources/app/bin/code" /us
 ```
 
 이랬는데 만약 이미 code가 존재한다고 하는 경우도 있다. 그 경우는, VSCode에 들어가서 **cmd+shift+p**를 누르고
+
 > **Shell Command: Uninstall 'code' command from PATH**
 
 이걸 입력 후 실행해준 뒤, 여기에 Uninstall을 **install**로 바꾼 명령어를 한 번 더 실행해준다. 그러고 터미널에 가서 환경파일을 여는 코드를 실행하면 VSCode로 정상적으로 열 수 있다.
@@ -93,7 +98,7 @@ ZSH_THEME="robbyrussell"
 
 ### 4. iterm2 커스텀하기
 
-지금까지 잘 따라왔다면 iterm2를 재시작했을 때 평소와는 다른 화면이 떠야 한다. Powerlevel10k configuration wizard (환경설정 마법사)가 뜨면 성공한거다. 폰트를 설치하기 위해 (*y*)를 눌러준다. 설치가 끝나면 종료 후 재시작을 한다.
+지금까지 잘 따라왔다면 iterm2를 재시작했을 때 평소와는 다른 화면이 떠야 한다. Powerlevel10k configuration wizard (환경설정 마법사)가 뜨면 성공한거다. 폰트를 설치하기 위해 (_y_)를 눌러준다. 설치가 끝나면 종료 후 재시작을 한다.
 
 재시작을 하면 다이아몬드 아이콘부터 몇 개의 아이콘들이 정상적으로 보이는 지를 물어보는 질문이 나온다. 보이는 대로 답을 해주면 그 다음부터는 Prompt style을 지정할 수 있다. 원하는 대로 입맛에 맞게 설정을 해준 후, 마지막에 **(1) Verbose (Recommended)**를 선택해주고, **(y) Yes (Recommended)**를 누르면 설정이 끝이 난다. 다시 재시작을 해보자!
 
@@ -109,7 +114,7 @@ ZSH_THEME="robbyrussell"
 
 ![enter image description here](https://raw.githubusercontent.com/arrow-economist/arrow-economist.github.io/master/images/Terminal5.png)
 
-여기에서 **Theme**을 보면 여러가지가 있는데, **Minimal**를 누르면 상단바랑 터미널 창의 색이 통일되면서 미니멀한 느낌을 주는게 마음에 든다. 
+여기에서 **Theme**을 보면 여러가지가 있는데, **Minimal**를 누르면 상단바랑 터미널 창의 색이 통일되면서 미니멀한 느낌을 주는게 마음에 든다.
 
 ![enter image description here](https://raw.githubusercontent.com/arrow-economist/arrow-economist.github.io/master/images/Terminal6.png)
 
@@ -122,6 +127,7 @@ ZSH_THEME="robbyrussell"
 ![enter image description here](https://raw.githubusercontent.com/arrow-economist/arrow-economist.github.io/master/images/Terminal8.png)
 
 이렇게 꾸미고 여기에 파이썬을 해야 간지인데, 아직 그정도는 못된다. 언젠간 터미널을 써먹는 날도 오겠지?
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTM2NDI4Njk0OSwtMTQzMzMyNzM1LC0xNT
 M3Mzc3OTUyLC0yMTk3ODAyNDUsNTUxOTU3OTIsLTE0OTM4MTAx

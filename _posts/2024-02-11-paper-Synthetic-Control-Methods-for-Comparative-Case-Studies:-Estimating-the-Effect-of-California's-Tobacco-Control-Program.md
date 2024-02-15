@@ -1,6 +1,9 @@
 ---
-categories:
-  - Paper Review
+title: 논문리뷰-Synthetic-Control-Methods-for-Comparative-Case-Studies:-Estimating-the-Effect-of-California's-Tobacco-Control-Program
+author: arrow-economist
+date: 2024-02-11 17:38:00 +0800
+categories: [papers]
+tags: [papers]
 ---
 
 # #PaperReview #SyntheticControlMethod
@@ -9,6 +12,7 @@ categories:
 
 수식이 내 깃허브페이지 상에서 깨져서 보이기 때문에 깃허브에 올린 포스트를 링크로 공유하도록 하겠다.
 [(논문리뷰) Synthetic Control Methods for Comparative Case Studies: Estimating the Effect of California's Tobacco Control Program](https://github.com/arrow-economist/economics-paper-review/blob/main/econometrics/%5B%EB%85%BC%EB%AC%B8%EB%A6%AC%EB%B7%B0%5D-Synthetic-Control-Methods-for-Comparative-Case-Studies:-Estimating-the-Effect-of-California%27s-Tobacco-Control-Program.md)
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTE2MTI4Nzc4Nl19
 -->

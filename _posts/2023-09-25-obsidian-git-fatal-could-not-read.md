@@ -1,7 +1,9 @@
 ---
-categories:
-  - Obsidian
-  - Github
+title: obsidian-Git-플러그인-사용-시-Fatal:-could-not-read-username-에러
+author: arrow-economist
+date: 2023-09-25 15:38:00 +0800
+categories: [obsidian]
+tags: [obsidian, git]
 ---
 
 # #Obsidian #Github
@@ -13,6 +15,7 @@ categories:
 ```
 Fatal: Could not read Username for "https://github.com", No such device or address
 ```
+
 이런 메시지가 자꾸 옵시디언에 떴다. 이유를 곰곰이 생각해보니 깃을 푸시하다가 personal token을 쓰라는 메시지를 보고 그걸 발급받고 나서부터 뭔가 제대로 연동이 안되었나보다. 그래서 commit까지는 되어도 push는 꼭 터미널로 해줘야했는데 상당히 귀찮았다.
 
 그래서 열심히 뒤지다가 깃허브 공식 홈페이지에서 해결방법을 찾았다. [여기](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens)
@@ -30,6 +33,7 @@ git clone https://github.com/USERNAME/REPO.git
 ![enter image description here](https://raw.githubusercontent.com/arrow-economist/imageslibrary/main/SCR-20230924-uptq.png)
 
 git에 대해 더 찬찬히 알아가야겠다.
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTQ2MTMxNDI3NywxMjg4NjA0ODQsLTM0NT
 IyMzg5OF19
