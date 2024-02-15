@@ -1,5 +1,5 @@
 ---
-title: latex-문법-정리
+title: latex 문법 정리
 author: arrow-economist
 date: 2023-10-14 00:38:00 +0800
 categories: [latex]

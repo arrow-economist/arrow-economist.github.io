@@ -1,5 +1,5 @@
 ---
-title: Julia-string-연산자
+title: Julia string 연산자
 author: arrow
 date: 2023-09-15 00:38:00 +0800
 categories: [julia]

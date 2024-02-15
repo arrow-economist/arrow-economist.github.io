@@ -1,5 +1,5 @@
 ---
-title: Julia-맥-터미널에서-실행하기
+title: Julia 맥 터미널에서 실행하기
 author: arrow
 date: 2023-09-11 00:38:00 +0800
 categories: [julia]

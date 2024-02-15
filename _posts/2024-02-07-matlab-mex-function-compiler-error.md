@@ -1,5 +1,5 @@
 ---
-title: MATLAB-mex-function-compiler-오류-해결방법
+title: MATLAB mex function compiler 오류 해결방법
 author: arrow
 date: 2024-02-07 00:38:00 +0800
 categories: [matlab]

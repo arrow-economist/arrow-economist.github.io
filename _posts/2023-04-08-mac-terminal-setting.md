@@ -1,5 +1,5 @@
 ---
-title: 맥-터미널-세팅하는-방법
+title: 맥 터미널 세팅하는 방법
 author: arrow
 date: 2023-04-08 00:34:00 +0800
 categories: [Mac]

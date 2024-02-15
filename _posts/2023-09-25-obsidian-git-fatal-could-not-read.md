@@ -1,5 +1,5 @@
 ---
-title: obsidian-Git-플러그인-사용-시-Fatal:-could-not-read-username-에러
+title: obsidian Git 플러그인 사용 시 Fatal could not read username 에러
 author: arrow
 date: 2023-09-25 15:38:00 +0800
 categories: [obsidian]
