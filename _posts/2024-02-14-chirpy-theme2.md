@@ -1,5 +1,5 @@
 ---
-title: jekyll-chirpy-theme으로-깃허브-블로그-만들기-2
+title: jekyll chirpy theme으로 깃허브 블로그 만들기 2
 author: arrow
 date: 2024-02-14 23:36:00 +0800
 categories: [git, github]

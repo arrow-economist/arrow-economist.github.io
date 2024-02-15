@@ -128,3 +128,5 @@ jekyll serve
 이 정도였는데 두 경우를 다 실행해봐도 에러는 계속되었다. 하지만 나는 앞서 말했던 제일 중요한 부분인 초기화 부분에서 답을 찾았다.
 
 3. `bash tools/init` 이 명령어를 실행을 꼭 해주자. 그래야 세팅이 되면서 구동이 가능한 것 같다. 혹시 나와 비슷한 문제로 계속 블로그가 안열린 사람이라면 이 명령어로 해결이 되길 바란다.
+
+다음 포스팅 링크: [jekyll chirpy theme으로 깃허브 블로그 만들기 2](https://arrow-economist.github.io/posts/chirpy-theme2/)
