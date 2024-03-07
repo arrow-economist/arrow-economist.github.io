@@ -1,5 +1,5 @@
 ---
-title: 맥에서 vscode에서 latex 편집하기 feat. LaTeX Workshop
+title: 맥에서 vscode로 latex 편집하기 feat. LaTeX Workshop
 author: arrow
 date: 2024-03-06 10:18:00 +0800
 categories: [latex]
